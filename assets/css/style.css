@@ -1881,13 +1881,13 @@ a:hover {
   text-align: right;
 }
 
-.about-img-box {
+.-img-box {
   padding-left: 1rem;
   position: relative;
 }
 
 @media (min-width: 576px) {
-  .about-img-box {
+  .-img-box {
     padding-left: 4rem;
   }
 }
@@ -2347,7 +2347,6 @@ footer .credits {
   max-width: 1100px;
   margin: 0 auto;
   padding: 40px;
-  margin-left: 150px;
 }
 
 .title {
